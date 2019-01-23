@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Menu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=title\ items\ size\ mfg\ mbg\ commands
+comment1.target=Menu(java.lang.String,\ java.lang.String,\ int,\ greenfoot.Color,\ greenfoot.Color,\ MenuCommands)
+comment1.text=\r\n\ public\ Menu\ constructor\r\n\ \r\n\ @param\ String\ title,\ String\ items,\ int\ size,\ Color\ mfg,\ Color\ mbg,\ MenuCommands\ commands\r\n\ @return\ nothing\ is\ returned\r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ addedToWorld\ adds\ the\ Menu\ to\ the\ world\r\n\ \r\n\ @param\ World\ w\r\n\ @return\ nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ do\ whatever\ the\ Menu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment4.params=
+comment4.target=void\ handleMouse()
+comment4.text=\r\n\ handleMouse\ adds\ menuItems\ and\ sinks\ the\ correct\ command\ in\ response\ to\ the\ klick\r\n\ \r\n\ @param\ there\ are\ none\r\n\ @return\ nothing\ is\ returned\r\n
+numComments=5

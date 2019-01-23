@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FlappybirdRed
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FlappybirdRed\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=w
+comment1.target=FlappybirdRed(greenfoot.World)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ FlappybirdBlue\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bird\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ checkKeyPress\ checks\ to\ see\ what\ keys\ are\ pressed\r\n\ \r\n\ @param\ there\ are\ none\r\n\ @return\ nothing\ is\ returned\r\n
+comment4.params=idx
+comment4.target=void\ switchBird(int)
+comment4.text=\r\n\ switchBird\ switches\ bird\ colour\r\n\ \r\n\ @param\ int\ idx\r\n\ @return\ nothing\ is\ returned\r\n
+comment5.params=
+comment5.target=void\ switchedIn()
+comment5.text=\r\n\ \r\nswitchedIn\ sets\ the\ transparency\ and\ location\ of\ the\ image\r\n\r\n@param\ there\ are\ none\r\n@return\ nothing\ is\ returnecd\r\n
+numComments=6
